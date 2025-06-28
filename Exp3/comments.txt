@@ -1,0 +1,27 @@
+Extracted Comments from C Program:
+----------------------------------------
+
+Comment 1 (Single-line):
+// Function to remove newline characters from a string
+
+Comment 2 (Single-line):
+// Open input file
+
+Comment 3 (Single-line):
+// Open output file
+
+Comment 4 (Single-line):
+// Read the input file line by line
+
+Comment 5 (Single-line):
+// Check for multi-line comment start
+
+Comment 6 (Single-line):
+// Check for single-line comment
+
+Comment 7 (Single-line):
+// If we're in a multi-line comment, write the character
+
+Comment 8 (Single-line):
+// Close files
+
