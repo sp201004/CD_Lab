@@ -132,33 +132,3 @@ lex file.l
 gcc lex.yy.c -ll
 ./a.out
 ```
-
----
-
-## 📝 Notes
-
-- Ensure all input files are in the same directory as your programs
-- Follow proper naming conventions for output files
-- Test each program with sample inputs before submission
-- Document any assumptions or limitations in your code comments
-
----
-
-## 🤝 Contributing
-
-If you find any issues or have suggestions for improvements, feel free to:
-- Create an issue
-- Submit a pull request
-- Contact the lab instructor
-
----
-
-## 📞 Contact
-
-For any queries related to the lab experiments, please contact:
-- **Lab In-Charge**: [Faculty Email]
-- **Course Coordinator**: [Coordinator Email]
-
----
-
-*Last Updated: June 2025*
